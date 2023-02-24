@@ -7,21 +7,21 @@
   "email": "dacruzlucasp@gmail.com",
   "skills": {
   "hardSkills": [
-  {
-  "name": "Node.js",
-  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/nodejs.png"
+    {
+    "name": "HTML",
+    "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/html.png"
   },
   {
   "name": "JavaScript",
   "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/js.png"
   },
   {
-  "name": "HTML",
-  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/html.png"
+    "name": "Bootstrap",
+  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/bootstrap5.png"
   },
   {
-  "name": "Bootstrap",
-  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/bootstrap5.png"
+  "name": "Node.js",
+  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/nodejs.png"
   },
   {
   "name": "MySQL",
