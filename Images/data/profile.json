@@ -1,0 +1,88 @@
+{
+  "name": "Lucas Matheus da Cruz",
+  "photo": "https://avatars.githubusercontent.com/u/124472083?s=400&u=497c0f5a8db3fe70eaddb32d2a4a2f496d95343c&v=4",
+  "job": "Desenvolvedor front-end",
+  "location": "Guarapuava - PR",
+  "phone": "(42) 99957-5533",
+  "email": "dacruzlucasp@gmail.com",
+  "skills": {
+  "hardSkills": [
+  {
+  "name": "Node.js",
+  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/nodejs.png"
+  },
+  {
+  "name": "JavaScript",
+  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/js.png"
+  },
+  {
+  "name": "HTML",
+  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/html.png"
+  },
+  {
+  "name": "Bootstrap",
+  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/bootstrap5.png"
+  },
+  {
+  "name": "MySQL",
+  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/mysql.png"
+  },
+  {
+  "name": "AWS",
+  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/awss.png"
+  },
+  {
+  "name": "SQLite3",
+  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/b56fbc72104ce253d7d09b789461106c1102c1cb/Images/data/imgs/sqlite3.png"
+  }
+  ],
+  "softSkills": [
+  "Empatia",
+  "Liderança",
+  "Trabalho em equipe",
+  "Flexibilidade",
+  "Organização"
+  ]
+  },
+  "languages": [
+  "Português BR",
+  "Inglês (técnico)"
+  ],
+  "portfolio": [
+  {
+  "name": "Criação de Pokédex e implementação de busca que não fazia parte do curso",
+  "url": "https://github.com/LucasMatheusDaCruz/JavascriptDio",
+  "github": true
+  },
+  {
+  "name": "Portfólio HTML/CSS/JS hospedado na AWS EC2 com DNS Route 53, usando servidor web Apache customizado e JavaScript para consumir JSON no GitHub",
+  "url": "https://lucascruzdev.com.br"
+  }
+  ],
+  "services": [
+    {
+      "name": "Desenvolvimento de aplicativos web",
+      "description": "Ofereço desenvolvimento de aplicativos web de alta qualidade, com design atraente e funcionalidades avançadas utilizando as tecnologias mais recentes."
+    },
+    {
+      "name": "Desenvolvimento de websites",
+      "description": "Ofereço desenvolvimento de websites personalizados, com design moderno e responsivo para garantir uma ótima experiência do usuário."
+    },
+    {
+      "name": "Consultoria em tecnologia",
+      "description": "Ofereço consultoria em tecnologia da informação para ajudá-lo a entender como as soluções de TI podem atender às suas necessidades de negócios."
+    },
+    {
+      "name": "Integração de aplicativos e sistemas",
+      "description": "Ajudo na integração de aplicativos e sistemas, garantindo que as informações fluam de maneira eficiente e segura entre diferentes plataformas."
+    },
+    {
+      "name": "Segurança da informação",
+      "description": "Ofereço soluções de segurança da informação para proteger seus dados sensíveis e garantir a privacidade de suas informações."
+    },
+    {
+      "name": "Otimização de sites para motores de busca (SEO)",
+      "description": "Ajudo a otimizar seu site para que ele seja facilmente encontrado pelos motores de busca, melhorando sua visibilidade e aumentando o tráfego em seu site."
+    }
+  ]
+}  
