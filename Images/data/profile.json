@@ -28,12 +28,12 @@
   "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/mysql.png"
   },
   {
-  "name": "AWS",
-  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/awss.png"
-  },
-  {
   "name": "SQLite3",
   "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/b56fbc72104ce253d7d09b789461106c1102c1cb/Images/data/imgs/sqlite3.png"
+  },
+  {
+  "name": "AWS",
+  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/awss.png"
   }
   ],
   "softSkills": [
