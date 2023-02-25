@@ -21,12 +21,16 @@
   },
   {
   "name": "Python",
-  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/djangoo.png"
+  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/python.png"
   },
   {
   "name": "Flask",
   "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/flask.png"
   },
+  {
+    "name": "Django",
+    "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/djangop.png"
+    },
   {
   "name": "MySQL",
   "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/mysql.png"
