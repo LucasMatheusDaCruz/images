@@ -6,59 +6,62 @@
   "phone": "(42) 99957-5533",
   "email": "dacruzlucasp@gmail.com",
   "skills": {
-  "hardSkills": [
-  {
-  "name": "JavaScript",
-  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/js.png"
-  },
-  {
-  "name": "Bootstrap",
-  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/bootstrap5.png"
-  },
-  {
-  "name": "Node.js",
-  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/nodejs.png"
-  },
-  {
-  "name": "Python",
-  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/python.png"
-  },
-  {
-  "name": "Flask",
-  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/flask.png"
-  },
-  {
-  "name": "MySQL",
-  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/mysqlb.png"
-  },
-  {
-  "name": "AWS",
-  "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/awss.png"
-  }
-  ],
-  "softSkills": [
-  "Empatia",
-  "Liderança",
-  "Trabalho em equipe",
-  "Flexibilidade",
-  "Organização"
-  ]
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/js.png"
+      },
+      {
+        "name": "Bootstrap",
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/bootstrap5.png"
+      },
+      {
+        "name": "Node.js",
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/python.png"
+      },
+      {
+        "name": "Flask",
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/flask.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/mysqlb.png"
+      },
+      {
+        "name": "AWS",
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/awss.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
   },
   "languages": [
-  "Português BR",
-  "Inglês (técnico)"
+    "Português BR",
+    "Inglês (técnico)"
   ],
   "portfolio": [
-  {
-  "name": "Lucasmon Pokedex - Uma aplicação web para buscar informações de Pokemons através da API PokeAPI.",
-  "url": "https://github.com/LucasMatheusDaCruz/JavascriptDio",
-  "github": true
-  },
-  {
-  "name": "Portfólio HTML/CSS/JS hospedado na AWS EC2 com DNS Route 53, usando servidor web Apache customizado e JavaScript para consumir JSON no GitHub",
-  "url": "http://lucascruzdev.com.br"
-  "github": true
-  }
+    {
+      "name": "Portfólio HTML/CSS/JS hospedado na AWS EC2 com DNS Route 53, usando servidor web Apache customizado e JavaScript para consumir JSON no GitHub",
+      "urls": [
+        "http://lucascruzdev.com.br",
+        "https://github.com/LucasMatheusDaCruz/Portfolio"
+      ],
+      "github": true
+    },
+    {
+      "name": "Lucasmon Pokedex - Uma aplicação web para buscar informações de Pokemons através da API PokeAPI.",
+      "url": "https://github.com/LucasMatheusDaCruz/JavascriptDio",
+      "github": true
+    }
   ],
   "services": [
     {
@@ -87,4 +90,3 @@
     }
   ]
 }
-
