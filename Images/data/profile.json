@@ -9,31 +9,38 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/Imp/js.png"
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/js.png",
+        "url": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
       },
       {
         "name": "Bootstrap",
-        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/Imp/Bootstrap.png"
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/bootstrap5.png",
+        "url": "https://getbootstrap.com/"
       },
       {
         "name": "Node.js",
-        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/Imp/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/nodejs.png",
+        "url": "https://nodejs.org/en/"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/Imp/python.png"
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/python.png",
+        "url": "https://www.python.org/"
       },
       {
         "name": "Flask",
-        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/Imp/flask.png"
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/flask.png",
+        "url": "https://flask.palletsprojects.com/en/2.1.x/"
       },
       {
         "name": "MySQL",
-        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/Imp/mysqlb.png"
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/mysqlb.png",
+        "url": "https://www.mysql.com/"
       },
       {
         "name": "AWS",
-        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/Imp/awss.png"
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/awss.png",
+        "url": "https://aws.amazon.com/pt/"
       }
     ],
     "softSkills": [
