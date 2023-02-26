@@ -50,7 +50,7 @@
   ],
   "portfolio": [
     {
-      "name": "Portfólio HTML/CSS/JS hospedado na AWS EC2 com DNS Route 53, usando servidor web Apache customizado",
+      "name": "Portfólio HTML/CSS/JS hospedado na AWS EC2 com DNS Route 53, usando servidor web Apache.",
       "url": "http://lucascruzdev.com.br",
       "github": true
     },
