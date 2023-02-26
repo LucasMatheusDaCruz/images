@@ -33,7 +33,7 @@
       },
       {
         "name": "AWS",
-        "logo": "https://img-267805544588.s3-accesspoint.sa-east-1.amazonaws.com/Imp/awss.png?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXNhLWVhc3QtMSJHMEUCIBOd3dGaDw5oEFuPmbeGEEK%2BmUBxB2DWtDr3nkI1H1EiAiEA0lrlsLgekvCrKdlFsWuzRmjj6nB%2BEtc%2BvtrYnaZP9XEq5AIIShABGgwyNjc4MDU1NDQ1ODgiDFm63szlq0FjZ3RXgyrBAodUI0AEZnipYr6WZvbjNpWlY%2Bnh6Oo3%2FHsPCTzEWQVyfnxD8eh1HiLhm7lUSqB8YcQItiH%2FcYDPZhN1Q63Wb6yKhnGX8fjoJQws9YRJlx4gJKfKdnddpi2zOoPwgN8GwS7wdXDFlcj2ARTbCmzwvuzrEyaBuZ0AHVA7DcZCmNfQ4%2BZdONlME3g%2FbxVQ1CfJ1H9LzG8Ug1R4V50YmcW9gnhaB51Wn2sZyRckYlFtye6vFDczF3dCYrwMQZt%2BaukTgWvJoxBfnaN5p0UhK0Lgqab5gsTMo%2FtYTbn2u1FJ1J6UvK6UjnCdVOlDMizBbW2Tg7%2FZN1RsFDFzjJ53LmmNhuH%2BqPFh6bq3HPDmVtwKIGcpia0JMuJMtCH6wDXj1rn1IpIJJaw%2Bp4EREx2yatrj9ThTF66U0rWKayYXK%2BIhwxl4CDDE8e2fBjqzAkkm2dbwUZsMtgGggsgTHyftdLVQwIOy3oH86s6tE93y%2FSH1wu5xClhQAa0Fgtt5SZ7%2FEjALm8%2FV3TrtEWfBUhMjN5Kmo1pmkH2UK0L%2FtV5wlG0e%2F5qVFlqVqH97d0oeEfg92HWbWW3WxxfYqdIVVWYX7IVOQR2WYMdbBsdPMAu8m11eXniUGIqgclfd2LVvcsS7BuSE%2FR%2Bzr%2BFV21Ju1YoGACRKzHaMebuB4fnyg7Sv0OmEP8W6R9MXNUGbZryGHHhxaL1OAllSr8PBAQ3QRK%2FDiSOUCHiJULUoyvqy%2FSgrPfGf2jtW%2BZcierp0j98c0%2Fm5K%2FowJUbssg2%2FuTwnQA7dOPr9jyX5TvWgxcM5H7K8E1%2BimrLn%2B9fEbdTZFjf8YdfCBjkm1ERXKJdlOmFBgaIwiCw%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230226T181838Z&X-Amz-SignedHeaders=host&X-Amz-Expires=299&X-Amz-Credential=ASIAT4WTUKCGDPKKXBJJ%2F20230226%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7fabbda8602212083ef2b402e0ec14878d40339b43ce9866508ef925cc454e8c"
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/Imp/awss.png"
       }
     ],
     "softSkills": [
@@ -83,3 +83,4 @@
     }
   ]
 }
+
