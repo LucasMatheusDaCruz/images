@@ -1,45 +1,45 @@
 {
   "name": "Lucas Matheus da Cruz",
-  "photo": "https://avatars.githubusercontent.com/u/124472083?s=400&u=377930b023d443f806461270b9600de295953ad2&v=4",
-  "job": "Desenvolvedor front-end",
+  "photo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/Imp/Foto%20Perfil.png",
+  "job": "Desenvolvedor",
   "location": "Guarapuava - PR",
   "phone": "(42) 99957-5533",
-  "email": "dacruzlucasp@gmail.com",
+  "email": "contato@lucascruzdev.com.br",
   "skills": {
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/js.png",
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/Imp/js.png",
         "url": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
       },
       {
         "name": "Bootstrap",
-        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/bootstrap5.png",
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/Imp/Bootstrap.png",
         "url": "https://getbootstrap.com/"
       },
       {
         "name": "Node.js",
-        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/nodejs.png",
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/Imp/nodejs.png",
         "url": "https://nodejs.org/en/"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/python.png",
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/Imp/python.png",
         "url": "https://www.python.org/"
       },
       {
         "name": "Flask",
-        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/flask.png",
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/Imp/flask.png",
         "url": "https://flask.palletsprojects.com/en/2.1.x/"
       },
       {
         "name": "MySQL",
-        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/mysqlb.png",
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/Imp/mysqlb.png",
         "url": "https://www.mysql.com/"
       },
       {
         "name": "AWS",
-        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/imgs/awss.png",
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/Imp/awss.png",
         "url": "https://aws.amazon.com/pt/"
       }
     ],
@@ -67,6 +67,18 @@
       "github": true
     }
   ],
+    "footer": [
+    {
+      "linkedin": "https://www.linkedin.com/in/lucasmatheuscruz",
+      "linkedinIcon": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/assets/img/icons/linkedin2.svg",
+      "github": "https://github.com/LucasMatheusDaCruz",
+      "githubIcon": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/assets/img/icons/github.svg",
+      "whatsapp": "https://wa.me/5542999575533",
+      "whatsappIcon": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/8126376fa864dd5498336f59da094f67c57e497b/Images/assets/img/icons/WhatsApp.svg",
+      "memoji": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/assets/img/memoji.png",
+      "name": "Lucas Matheus da Cruz"
+    }
+  ],
   "services": [
     {
       "name": "Desenvolvimento de aplicativos web",
@@ -88,6 +100,5 @@
       "name": "Otimização de sites para motores de busca (SEO)",
       "description": "Ajudo a otimizar seu site para que ele seja facilmente encontrado pelos motores de busca, melhorando sua visibilidade e aumentando o tráfego em seu site."
     }
-  ]
+  ] 
 }
-
