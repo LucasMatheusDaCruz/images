@@ -67,18 +67,6 @@
       "github": true
     }
   ],
-    "footer": [
-    {
-      "linkedin": "https://www.linkedin.com/in/lucasmatheuscruz",
-      "linkedinIcon": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/assets/img/icons/linkedin2.svg",
-      "github": "https://github.com/LucasMatheusDaCruz",
-      "githubIcon": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/assets/img/icons/github.svg",
-      "whatsapp": "https://wa.me/5542999575533",
-      "whatsappIcon": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/8126376fa864dd5498336f59da094f67c57e497b/Images/assets/img/icons/WhatsApp.svg",
-      "memoji": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/assets/img/memoji.png",
-      "name": "Lucas Matheus da Cruz"
-    }
-  ],
   "services": [
     {
       "name": "Desenvolvimento de aplicativos web",
@@ -100,5 +88,16 @@
       "name": "Otimização de sites para motores de busca (SEO)",
       "description": "Ajudo a otimizar seu site para que ele seja facilmente encontrado pelos motores de busca, melhorando sua visibilidade e aumentando o tráfego em seu site."
     }
-  ] 
+  ],
+  "footer": [
+  {
+    "linkedin": "https://www.linkedin.com/in/lucasmatheuscruz",
+    "linkedinIcon": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/assets/img/icons/linkedin2.svg",
+    "github": "https://github.com/LucasMatheusDaCruz",
+    "githubIcon": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/assets/img/icons/github.svg",
+    "whatsapp": "https://wa.me/5542999575533",
+    "whatsappIcon": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/8126376fa864dd5498336f59da094f67c57e497b/Images/assets/img/icons/WhatsApp.svg",
+    "memoji": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/assets/img/memoji.png"
+  }
+  ]
 }
