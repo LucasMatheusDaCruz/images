@@ -29,7 +29,7 @@
       },
       {
         "name": "Flask",
-        "logo": "https://github.com/LucasMatheusDaCruz/images/blob/main/Images/data/flask.svg",
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/flask.svg",
         "url": "https://flask.palletsprojects.com/en/2.1.x/"
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "name": "AWS",
-        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/mysql.svg",
+        "logo": "https://raw.githubusercontent.com/LucasMatheusDaCruz/images/main/Images/data/aws.svg",
         "url": "https://aws.amazon.com/pt/"
       }
     ],
